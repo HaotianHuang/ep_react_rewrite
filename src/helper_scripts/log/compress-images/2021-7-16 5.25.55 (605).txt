@@ -1,0 +1,11 @@
+File from: [../images/feed/process/yvonne_ho.jpg]
+
+File to: [../images/feed/compress_build/yvonne_ho.jpg]
+
+Compression algorithm: [guetzli]
+
+Description: Error: Command failed: /Users/jefftang/Desktop/Practice_Apps/EP_rewrite/ep_react_rewrite/node_modules/guetzli/vendor/guetzli --quality 70 ../images/feed/process/yvonne_ho.jpg ../images/feed/compress_build/yvonne_ho.jpg
+Guetzli should be called with quality >= 84, otherwise the
+output will have noticeable artifacts. If you want to
+proceed anyway, please edit the source code.
+Guetzli processing failed

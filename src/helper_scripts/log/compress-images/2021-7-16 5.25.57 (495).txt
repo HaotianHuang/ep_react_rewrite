@@ -1,0 +1,11 @@
+File from: [../images/feed/process/rob_moodie.jpg]
+
+File to: [../images/feed/compress_build/rob_moodie.jpg]
+
+Compression algorithm: [guetzli]
+
+Description: Error: Command failed: /Users/jefftang/Desktop/Practice_Apps/EP_rewrite/ep_react_rewrite/node_modules/guetzli/vendor/guetzli --quality 70 ../images/feed/process/rob_moodie.jpg ../images/feed/compress_build/rob_moodie.jpg
+Guetzli should be called with quality >= 84, otherwise the
+output will have noticeable artifacts. If you want to
+proceed anyway, please edit the source code.
+Guetzli processing failed
