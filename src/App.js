@@ -1,17 +1,17 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch } from 'react-router-dom';
 import { Route } from 'react-router-dom';
-import Home from './pages/home';
+import { Home, Team, Podcast, Covidsations } from './pages/index';
 
 function App() {
   return (
     <Router>
       <Switch>
         <Route exact path ="/team">
-          <p>Team page</p>
+          < Team />
         </Route>
         <Route exact path ="/podcast">
-          <p>Podcast page</p>
+          < Podcast />
         </Route>
         <Route exact path ="/blog">
           <p>Blog page</p>
@@ -20,7 +20,7 @@ function App() {
           <p>BlogId page</p>
         </Route>
         <Route exact path ="/covidsations">
-          <p>Covidsation page</p>
+          < Covidsations />
         </Route>
         <Route exact path ="/">
           < Home />
@@ -34,6 +34,6 @@ export default App;
 
 /*
 
-10
+4
 
 */

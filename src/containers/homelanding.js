@@ -6,8 +6,6 @@ import { facebook_style, twitter_style, instagram_style} from './styles/social_m
 import emailjs from 'emailjs-com';
 import { serviceID, templateID, userID } from '../api_keys/emailjs';
 
-console.log(serviceID, templateID, userID)
-
 // TODO - Disable SUBMIT button hover effect, after pressing submit
 // TODO - Fix up Form CSS
 
