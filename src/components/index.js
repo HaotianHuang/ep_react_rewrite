@@ -4,3 +4,6 @@ export { default as BottomNote } from './bottomnote';
 export { default as Header } from './header';
 export { default as HomeLanding } from './homelanding';
 export { default as Feed } from './feed';
+export { default as EmptyHead } from './emptyHead';
+export { default as TeamBody } from './teamBody';
+export { default as PodcastBody } from './podcastBody';

@@ -21,7 +21,6 @@ export const PostWrapper = styled.div`
     padding-right: 5px;
     padding-bottom: 10px;
     padding-left: 5px;
-    border: 1px black solid;
 `;
 
 export const PostLinkWrapper = styled.a`

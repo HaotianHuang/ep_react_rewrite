@@ -12,9 +12,3 @@ export function BottomNoteContainer() {
         </BottomNote>
     )
 }
-
-/*
-
-
-
-*/

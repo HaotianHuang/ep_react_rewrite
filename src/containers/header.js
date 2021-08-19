@@ -2,6 +2,8 @@ import React, {useState} from 'react';
 import { Header } from '../components';
 import logo from '../images/home/logo.jpeg';
 
+// TODO - ?Bigger logo
+
 export function HeaderContainer() {
     const [open, setOpen] = useState(false);
 

@@ -4,7 +4,7 @@ import { FooterContainer } from '../containers/footer';
 import { BottomNoteContainer } from '../containers/bottomnote';
 import { HeaderContainer } from '../containers/header';
 import { HomeLandingContainer } from '../containers/homelanding';
-import { FeedContainer } from '../containers/feed';
+
 
 export default function Home() {
     return (
@@ -12,10 +12,17 @@ export default function Home() {
                 <HeaderContainer  />
                 <HomeLandingContainer />
                 <CovidsationContainer />
-                <FeedContainer />
+                
                 <BottomNoteContainer />
                 <FooterContainer />
             </div>
 
     )
 }
+
+/*
+import { FeedContainer } from '../containers/feed';
+
+<FeedContainer /> <== Hope leaving this out stops it from crashing :()
+
+*/

@@ -39,4 +39,11 @@ export const GlobalStyles = createGlobalStyle`
     a: hover {
         outline: 0;
     }
+
+    img {
+        max-width: 100%;
+        vertical-align: middle;
+        display: inline-block;
+        border: 0;
+    }
 `;
