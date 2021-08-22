@@ -7,3 +7,5 @@ export { default as Feed } from './feed';
 export { default as EmptyHead } from './emptyHead';
 export { default as TeamBody } from './teamBody';
 export { default as PodcastBody } from './podcastBody';
+export { default as CovidsationsBody } from './covidsationsBody';
+export { default as Blog } from './blog';

@@ -70,4 +70,5 @@ export const PodcastText = styled.p`
     font-size: 16px;
     text-align: justify;
     color: #333;
+    white-space: pre-wrap;
 `;

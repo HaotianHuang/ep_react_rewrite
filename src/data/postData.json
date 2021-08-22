@@ -1,0 +1,752 @@
+[
+ {
+   "id": 0,
+   "name": "Jenny Hayes",
+   "pagename": "jenny-hayes",
+   "filename": "jenny_hayes",
+   "title": "THE PEOPLE’S ANATOMY EDUCATOR",
+   "subtitle": "The people’s anatomy educator",
+   "date": "September 2, 2018",
+   "audio": "http://docs.google.com/uc?export=open&amp;id=1EWSIeXl1rMUjW2MFHnn46ow34MK1nb5o"
+ },
+ {
+   "id": 1,
+   "name": "Fiona Woods",
+   "pagename": "fiona-wood",
+   "filename": "fiona_wood",
+   "title": "AUSTRALIA’S MOST TRUSTED BURNS SURGEON",
+   "subtitle": "Australia’s most trusted burns surgeon",
+   "date": "September 9, 2018",
+   "audio": ""
+ },
+ {
+   "id": 2,
+   "name": "Jeffrey Rosenfeld",
+   "pagename": "jeffrey-rosenfeld",
+   "filename": "jeffrey_rosenfeld",
+   "title": "THE MAN WITH INVINCIBLE DETERMINATION",
+   "subtitle": "Invincible Determination",
+   "date": "September 16, 2018",
+   "audio": "http://docs.google.com/uc?export=open&id=1vV_3M97R6Kds3_XcRmtkxvWd1U0MOKrC"
+ },
+ {
+   "id": 3,
+   "name": "Rob Moodie",
+   "pagename": "rob-moodie",
+   "filename": "rob_moodie",
+   "title": "WORLD EXPLORER TURNED GLOBAL HEALTH CRUSADER 🌍⚕️",
+   "subtitle": "The Global Health Crusader",
+   "date": "September 23, 2018",
+   "audio": "http://docs.google.com/uc?export=open&id=13yH_3QYAzfm2XkaiiU0OTGCP65xJldNY"
+ },
+ {
+   "id": 4,
+   "name": "Maithri Goonetilleke",
+   "pagename": "maithri-goonetilleke",
+   "filename": "maithri_goonetilleke",
+   "title": "THE LOCAL MEDICAL STUDENT WHO TEAMED UP WITH THE SWAZIS 🇸🇿",
+   "subtitle": "Teaming up with Swaziland",
+   "date": "September 30, 2018",
+   "audio": "http://docs.google.com/uc?export=open&id=19BKcOBKrc3l-DoAblSlxypply2nFrhsI"
+ },
+ {
+   "id": 5,
+   "name": "Chatu Yapa",
+   "pagename": "chatu-yapa",
+   "filename": "chatu_yapa",
+   "title": "A DREAM COME TRUE 🌍⚕️-> BEING A MSF DOCTOR IN AFRICA",
+   "subtitle": "The Doctor in Africa Dream",
+   "date": "October 7, 2018",
+   "audio": "http://docs.google.com/uc?export=open&id=1Ol57R6xW4n_p7I10g01K37JnJNjVoGGm"
+ },
+ {
+   "id": 6,
+   "name": "Sally Graddon",
+   "pagename": "sally-graddon",
+   "filename": "sally_graddon",
+   "title": "THE DOCTOR WHO LEFT MEDICINE",
+   "subtitle": "The Doctor Who Left Medicine",
+   "date": "October 14, 2018",
+   "audio": ""
+ },
+ {
+   "id": 7,
+   "name": "Jason Lam",
+   "pagename": "jason-lam",
+   "filename": "jason_lam",
+   "title": "THE INJURED PROFESSIONAL DANCER WHO BECAME THE DANCE MEDICINE FELLOW OF THE AUSTRALIAN BALLET",
+   "subtitle": "The injured professional dancer",
+   "date": "October 21, 2018",
+   "audio": "http://docs.google.com/uc?export=open&id=13fL6t_pDhgnooWSynM2fNeag8PNmEoTT"
+ },
+ {
+   "id": 8,
+   "name": "Steve Trumble-Dore",
+   "pagename": "steve-trumble",
+   "filename": "steve_trumble",
+   "title": "DIDN'T GET INTO VET SCHOOL? NO PROBLEM. BECOME PROFESSOR OF MEDICAL EDUCATION.",
+   "subtitle": "From Vet-Wannabe to Professor",
+   "date": "October 28, 2018",
+   "audio": "http://docs.google.com/uc?export=open&id=1Sx72DVD-1PKNtV5NYt9lzKI2kcmYPmkH"
+ },
+ {
+   "id": 9,
+   "name": "Ranjana Srivastava",
+   "pagename": "ranjana-srivastava",
+   "filename": "ranjana_srivastava",
+   "title": "THE ACCLAIMED ONCOLOGIST-AUTHOR-COLUMNIST WHO WOULD WRITE AND WRITE AND WRITE",
+   "subtitle": "The Prolific Writer",
+   "date": "November 2, 2018",
+   "audio": "http://docs.google.com/uc?export=open&id=1Rm_5gUbjsKlm2Tkl4anYrfmYRw3Zj2uF"
+ },
+ {
+   "id": 10,
+   "name": "Mark Cook",
+   "pagename": "mark-cook",
+   "filename": "mark_cook",
+   "title": "A MAN OF COMPLEX IDEAS AND SIMPLE MORALS",
+   "subtitle": "Complex ideas; simple morals",
+   "date": "November 9, 2018",
+   "audio": ""
+ },
+ {
+   "id": 11,
+   "name": "Nick Carr",
+   "pagename": "nick-carr",
+   "filename": "nick_carr",
+   "title": "FROM CAMBRIDGE UNIVERSITY TO ST. KILDA GP OF 30 YEARS - AND STILL LOVING IT",
+   "subtitle": "From Cambridge to St. Kilda",
+   "date": "November 18, 2018",
+   "audio": "http://docs.google.com/uc?export=open&id=17eyNFThgYWZxn6xhsq2LWpIoL2kGW1iG"
+ },
+ {
+   "id": 12,
+   "name": "Peter Choong",
+   "pagename": "peter-choong",
+   "filename": "peter_choong",
+   "title": "ONE SURGEON GIVING MEANING TO LIFE WITH INFINITE PASSION",
+   "subtitle": "Surgeon with Infinite Passion",
+   "date": "November 25, 2018",
+   "audio": ""
+ },
+ {
+   "id": 13,
+   "name": "Hon Weng Chong",
+   "pagename": "hon-weng-chong",
+   "filename": "hon_weng_chong",
+   "title": "THE TECH WIZARD WHO INVENTED THE DIGITAL STETHOSCOPE WHILE IN MEDICAL SCHOOL",
+   "subtitle": "The tech wizard",
+   "date": "January 27, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1BcJK9of8USOuO4nN0_9LGzZnglwnknhO"
+ },
+ {
+   "id": 14,
+   "name": "Joe Rotella",
+   "pagename": "joe-rotella",
+   "filename": "joe_rotella",
+   "title": "FOUNDING THE GENERAL PRACTICE STUDENTS NETWORK (GPSN), OVERCOMING CRIPPLING ANXIETY, AND DISCOVERING HIS PASSION FOR EMERGENCY MEDICINE",
+   "subtitle": "Overcoming anxiety",
+   "date": "February 4, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1v04KigV4-As2vpno1EertLdnwTk35lly"
+ },
+ {
+   "id": 15,
+   "name": "Olivia Lesslar",
+   "pagename": "olivia-lesslar",
+   "filename": "olivia_lesslar",
+   "title": "AN ADVENTURE JUNKIE AT HEART - TRAVELLING THREE MONTHS OF THE YEAR",
+   "subtitle": "The Adventure Junkie",
+   "date": "February 11, 2019",
+   "audio": ""
+ },
+ {
+   "id": 16,
+   "name": "Rebecca Stewart",
+   "pagename": "rebecca-stewart",
+   "filename": "rebecca_stewart",
+   "title": "IN EDUCATION FOR THE LONG HAUL",
+   "subtitle": "The medical educator",
+   "date": "February 18, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1tgOEwIccXJUpYsRYfkasGiAU-59qrYsK"
+ },
+ {
+   "id": 17,
+   "name": "Tilman Ruff",
+   "pagename": "tilman-ruff",
+   "filename": "tilman_ruff",
+   "title": "SAVING THE WORLD FROM NUCLEAR WEAPONS",
+   "subtitle": "Abolishing nuclear weapons",
+   "date": "February 25, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1Ei7F_rVg2AgH0znxXoXVl8ZCE9T8gp52"
+ },
+ {
+   "id": 18,
+   "name": "Glenn Begley",
+   "pagename": "glenn-begley",
+   "filename": "glenn_begley",
+   "title": "JOINING THE 'DARK SIDE': PHARMACEUTICALS IN THE USA",
+   "subtitle": "Pharma in the USA",
+   "date": "March 3, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1B9a0DxHrTLpcP3B8hq876NglgluNFrQE"
+ },
+ {
+   "id": 19,
+   "name": "Anita Elias",
+   "pagename": "anita-elias",
+   "filename": "anita_elias",
+   "title": "The Sex Doctor",
+   "subtitle": "The Sex Doctor",
+   "date": "March 10, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1bVrDSK6zFCtuFiwNFw38uxRs9fH5PfAV"
+ },
+ {
+   "id": 20,
+   "name": "Ginni Mansberg",
+   "pagename": "ginni-mansberg",
+   "filename": "ginni_mansberg",
+   "title": "MEDICINE ON THE TV",
+   "subtitle": "Medicine on the TV",
+   "date": "March 17, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1JLu2Sj5-rUQ9CwalUsI87lcsoeapMp_d"
+ },
+ {
+   "id": 21,
+   "name": "Rinaldo Bellomo",
+   "pagename": "rinaldo-bellomo",
+   "filename": "rinaldo_bellomo",
+   "title": "ONE OF THE WORLD'S MOST INFLUENTIAL SCIENTIFIC MINDS",
+   "subtitle": "A World Leading Mind",
+   "date": "March 24, 2019",
+   "audio": ""
+ },
+ {
+   "id": 22,
+   "name": "Frank Gaillard",
+   "pagename": "frank-gaillard",
+   "filename": "frank_gaillard",
+   "title": "A STORY OF PROCRASTINATING FOR EXAMS: FOUNDING RADIOPAEDIA",
+   "subtitle": "Founding Radiopaedia",
+   "date": "March 31, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=14YLeh4WINLQXE7vAywK3CJA55W2DenMQ"
+ },
+ {
+   "id": 23,
+   "name": "Grace Dugan",
+   "pagename": "grace-dugan",
+   "filename": "grace_dugan",
+   "title": "A LITTLE BIT OF CLINICAL MEDICINE, GLOBAL HEALTH AND SCIENCE FICTION",
+   "subtitle": "THE SCIENCE FICTION NOVELIST",
+   "date": "April 7, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1t4BbrLuh72jlIGUEh_gCThwFjuHGMOkG"
+ },
+ {
+   "id": 24,
+   "name": "Tal Rapke",
+   "pagename": "tal-rapke",
+   "filename": "tal_rapke",
+   "title": "REIMAGINING HEALTHCARE: FROM DOCTOR ▶️ PHARMACEUTICAL EXECUTIVE ▶️ BLOCKCHAIN STARTUP FOUNDER",
+   "subtitle": "REIMAGINING HEALTHCARE",
+   "date": "April 14, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1x1vQj_iLgmxsn5h5SQF7qwRkUnKcd4_D"
+ },
+ {
+   "id": 25,
+   "name": "Sally Bell",
+   "pagename": "sally-bell",
+   "filename": "sally_bell",
+   "title": "THE NATIONAL GASTROENTEROLOGY EXPERT",
+   "subtitle": "The National Gastroenterology Expert",
+   "date": "April 21, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1ckIoTE4eYfVXF3laufit1op28HzdCo5h"
+ },
+ {
+   "id": 26,
+   "name": "Jonathan King",
+   "pagename": "jonathan-king",
+   "filename": "jonathan_king",
+   "title": "THE MAN THAT LYSN’S",
+   "subtitle": "The Man That Lysn’s",
+   "date": "April 28, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1_wH6AspOtJOH0ujHb_AxHBhSxtZOe8Na"
+ },
+ {
+   "id": 27,
+   "name": "Helen Malcolm",
+   "pagename": "helen-malcolm",
+   "filename": "helen_malcolm",
+   "title": "GP, PRIEST AND MEDICAL EDUCATOR",
+   "subtitle": "GP and Priest",
+   "date": "May 5, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1Ce7fS87ForqsMzeaZ27GJKpBw6__MyKb"
+ },
+ {
+   "id": 28,
+   "name": "Peter Morley",
+   "pagename": "peter-morley",
+   "filename": "peter_morley",
+   "title": "REINVENTING MEDICAL EDUCATION",
+   "subtitle": "Reinventing Medical Education",
+   "date": "May 12, 2019",
+   "audio": ""
+ },
+ {
+   "id": 29,
+   "name": "Frank Oberklaid",
+   "pagename": "frank-oberklaid",
+   "filename": "frank_oberklaid",
+   "title": "REIMAGINING PAEDIATRICS",
+   "subtitle": "Reimagining Paediatrics",
+   "date": "May 19, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1xpvLlgu4BHEp2f9SkMcczO6hhZq8_uP7"
+ },
+ {
+   "id": 30,
+   "name": "Kelley Withy",
+   "pagename": "kelley-withy",
+   "filename": "kelley_withy",
+   "title": "FACING TRUTHS HEAD ON",
+   "subtitle": "Facing truths head on",
+   "date": "May 26, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1yLTCexX6zFfynSCHVApWnku1UNQNw0U0"
+ },
+ {
+   "id": 31,
+   "name": "Joseph Proietto",
+   "pagename": "joseph-proietto",
+   "filename": "joseph_proietto",
+   "title": "THE OBESITY EXPERT",
+   "subtitle": "THE OBESITY EXPERT",
+   "date": "June 3, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=177tK5AjZL6a83NcYqVsW1SrBaT5N_F7-"
+ },
+ {
+   "id": 32,
+   "name": "Andrew Pattison",
+   "pagename": "andrew-pattison",
+   "filename": "andrew_pattison",
+   "title": "A TIRELESS HEALTH PROMOTOR AND EDUCATOR",
+   "subtitle": "A TIRELESS HEALTH PROMOTOR AND EDUCATOR",
+   "date": "June 9, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1ZPcdiVdotDRqSPLfWcxh5d8T-Z8zwMME"
+ },
+ {
+   "id": 33,
+   "name": "Michael Bonning",
+   "pagename": "michael-bonning",
+   "filename": "michael_bonning",
+   "title": "THE INSPIRED ADVENTURER",
+   "subtitle": "The Inspired Adventurer",
+   "date": "June 16, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1iaxD_FrobRVEUsvjn5sm0H1Xk1-JcMqL"
+ },
+ {
+   "id": 34,
+   "name": "Yvonne Ho",
+   "pagename": "yvonne-ho",
+   "filename": "yvonne_ho",
+   "title": "STANDING UP FOR THE YOUNGER GENERATION OF DOCTORS",
+   "subtitle": "STANDING UP FOR THE YOUNGER GENERATION",
+   "date": "June 23, 2019",
+   "audio": ""
+ },
+ {
+   "id": 35,
+   "name": "Adir Shiffman",
+   "pagename": "adir-shiffman",
+   "filename": "adir_shiffman",
+   "title": "TECH, BUSINESS, AND DOING WHAT YOU LOVE",
+   "subtitle": "TECH, BUSINESS, AND DOING WHAT YOU LOVE",
+   "date": "June 30, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1r82Cd3rZq-UeXW0iftO1eGD8F4CaC6hR"
+ },
+ {
+   "id": 36,
+   "name": "Louise Teo",
+   "pagename": "louise-teo",
+   "filename": "louise_teo",
+   "title": "THE QUEEN OF RANDOM: LIVING THE CREATIVE MEDICAL CAREER",
+   "subtitle": "The Queen of Random",
+   "date": "July 7, 2019",
+   "audio": ""
+ },
+ {
+   "id": 37,
+   "name": "Jim Black",
+   "pagename": "jim-black",
+   "filename": "jim_black",
+   "title": "THE GLOBAL HEALTH WORKER",
+   "subtitle": "THE GLOBAL HEALTH WORKER",
+   "date": "July 14, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1ZSIavmFavi9v-JSAwKW7klkpYCVABKtN"
+ },
+ {
+   "id": 38,
+   "name": "Brendan Nelson",
+   "pagename": "brendan-nelson",
+   "filename": "brendan_nelson",
+   "title": "A LIFE LIVED IN THE SERVICE OF OTHERS",
+   "subtitle": "A LIFE LIVED IN THE SERVICE OF OTHERS",
+   "date": "July 21, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1yOFOQY2XhJZLMSe1MQxasZeD_75TvcjS"
+ },
+ {
+   "id": 39,
+   "name": "Yumiko Kadota",
+   "pagename": "yumiko-kadota",
+   "filename": "yumiko_kadota",
+   "title": "THE EX-SURGEON WHO SPOKE UP AGAINST THE SYSTEM",
+   "subtitle": "THE EX-SURGEON WHO SPOKE UP AGAINST THE SYSTEM",
+   "date": "July 28, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=16uFkfmzuH_okXwWnmjXxzuQMZKWcYY1a"
+ },
+ {
+   "id": 40,
+   "name": "Dr Karl",
+   "pagename": "dr-karl",
+   "filename": "dr_karl",
+   "title": "SPREADING THE GOOD WORD OF SCIENCE",
+   "subtitle": "SPREADING THE GOOD WORD OF SCIENCE",
+   "date": "August 4, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1FxwtE80vzAypaoiVfMkVtEUO91ng2nnD"
+ },
+ {
+   "id": 41,
+   "name": "Patrick Mcgorry",
+   "pagename": "patrick-mcgorry",
+   "filename": "patrick_mcgorry",
+   "title": "SHAPING THE YOUTH MENTAL HEALTH LANDSCAPE AND WORKING BEYOND LABELS",
+   "subtitle": "Shaping the youth mental health landscape and working beyond labels",
+   "date": "August 11, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=12jXnqhytcuTa-6HyQTA9khkKlpTl8tuD"
+ },
+ {
+   "id": 42,
+   "name": "Raffy Halim",
+   "pagename": "raffy-halim",
+   "filename": "raffy_halim",
+   "title": "“DO THINGS IN SERIES, NOT IN PARALLEL”",
+   "subtitle": "“Do things in series, not in parallel”",
+   "date": "August 18, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1vT0IlAXr23eYaeQCJ05N5UtTEjXcX8iY"
+ },
+ {
+   "id": 43,
+   "name": "Renee Lim",
+   "pagename": "renee-lim",
+   "filename": "renee_lim",
+   "title": "AN ACTRESS AND DOCTOR",
+   "subtitle": "AN ACTRESS AND DOCTOR",
+   "date": "August 25, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1KJSk7dCRHRhASI9qG6eqnek3Vc-80OP9"
+ },
+ {
+   "id": 44,
+   "name": "Richard Di Natale",
+   "pagename": "richard-di-natale",
+   "filename": "richard_di_natale",
+   "title": "FROM PUBLIC HEALTH TO POLITICS",
+   "subtitle": "FROM PUBLIC HEALTH TO POLITICS",
+   "date": "September 1, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1H8ZZ3tmc8H69H7aBF-PEjo-_n-pCX09u"
+ },
+ {
+   "id": 45,
+   "name": "Ashe Coxon",
+   "pagename": "ashe-coxon",
+   "filename": "ashe_coxon",
+   "title": "PURSUE SOMETHING YOU LOVE OVER A HUMONGOUS INCOME",
+   "subtitle": "Pursue something you love over a humungous income",
+   "date": "September 8, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1Q99obbXxijBq_FN54NKOnSignqf95icA"
+ },
+ {
+   "id": 46,
+   "name": "Simon Judkins",
+   "pagename": "simon-judkins",
+   "filename": "simon_judkins",
+   "title": "PRESIDENT OF THE AUSTRALASIAN COLLEGE OF EMERGENCY MEDICINE (ACEM); CREATIVE MIND BEHIND “UNTOLD STORIES OF THE ED”; AND A DOWN-TO-EARTH GUY WITH REAL PERSPECTIVE",
+   "subtitle": "President of the Australasian College of Emergency Medicine",
+   "date": "September 15, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1ygai12R6dv3f85ibYieoz5czY5Ywaihj"
+ },
+ {
+   "id": 47,
+   "name": "Linny Kimly Phuong",
+   "pagename": "linny-kimly-phuong",
+   "filename": "linny_kimly_phuong",
+   "title": "MASS HEALTH EDUCATION FOR REFUGEES AND ASYLUM SEEKERS",
+   "subtitle": "MASS HEALTH EDUCATION",
+   "date": "September 22, 2019",
+   "audio": ""
+ },
+ {
+   "id": 48,
+   "name": "Tim Read",
+   "pagename": "tim-read",
+   "filename": "tim_read",
+   "title": "DISRUPTOR DOCTOR",
+   "subtitle": "DISRUPTOR DOCTOR",
+   "date": "September 29, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1S56OU-voNo40SY4vKpFHar1qYBCA5cGB"
+ },
+ {
+   "id": 49,
+   "name": "Chandrashan Perera",
+   "pagename": "chandrashan-perera",
+   "filename": "chandrashan_perera",
+   "title": "THE TECH WHIZ OPHTHALMOLOGIST",
+   "subtitle": "THE TECH WHIZ OPHTHALMOLOGIST",
+   "date": "October 10, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1fgrxaGLDb-7TC7rXYppjPskBURiomO_z"
+ },
+ {
+   "id": 50,
+   "name": "Kate Tyson",
+   "pagename": "kate-tyson",
+   "filename": "kate_tyson",
+   "title": "MÉDECINS SANS FRONTIÈRES IS CAREER SUICIDE FOR AN ASPRING O&G REGISTRAR? I THINK NOT 💁",
+   "subtitle": "Médecins Sans Frontières: A most rewarding journey",
+   "date": "October 13, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1_D7_mZQmMnP5OyiKbveSXu1cFz-D6gaD"
+ },
+ {
+   "id": 51,
+   "name": "Exam Tips Part 1",
+   "pagename": "exam-edition-1",
+   "filename": "exam_edition_1",
+   "title": "EXAM EDITION PART 1",
+   "subtitle": "Exam Edition Part 1",
+   "date": "October 24, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1jxyATOtcUFOQCYVvebLqq1pMoZFjEGW8"
+ },
+ {
+   "id": 52,
+   "name": "Exam Tips Part 2",
+   "pagename": "exam-edition-2",
+   "filename": "exam_edition_2",
+   "title": "EXAM EDITION PART 2",
+   "subtitle": "Exam Edition Part 2",
+   "date": "November 1, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1jxyATOtcUFOQCYVvebLqq1pMoZFjEGW8"
+ },
+ {
+   "id": 53,
+   "name": "Michael Levitt",
+   "pagename": "michael-levitt",
+   "filename": "michael_levitt",
+   "title": "REINVENTING HIMSELF FROM A VERY SHY BOY ⏩ A HIGHLY SOUGHT-AFTER LEADER IN THE ANAESTHETIC, MEDICO-BUSINESS AND MEDICO-LEGAL FIELDS",
+   "subtitle": "VERY SHY BOY ⏩ A HIGHLY SOUGHT-AFTER LEADER",
+   "date": "November 10, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1OnpDpwtzfbgkSu_6V58rZgQOYnZVmGFh"
+ },
+ {
+   "id": 54,
+   "name": "Murray Esler",
+   "pagename": "murray-esler",
+   "filename": "murray_esler",
+   "title": "THE VIRTUES OF BEING A FREE THINKER",
+   "subtitle": "THE VIRTUES OF BEING A FREE THINKER",
+   "date": "November 13, 2019",
+   "audio": "http://docs.google.com/uc?export=open&id=1Po0jqHftx-sHUpzx9kkmwaljl6MijJ7V"
+ },
+ {
+   "id": 55,
+   "name": "Matthew Chan",
+   "pagename": "matthew-chan",
+   "filename": "matthew_chan",
+   "title": "PURSUING AN INTERNATIONAL MBA",
+   "subtitle": "PURSUING AN INTERNATIONAL MBA",
+   "date": "February 16, 2020",
+   "audio": ""
+ },
+ {
+   "id": 56,
+   "name": "Ian Harris",
+   "pagename": "ian-harris",
+   "filename": "ian_harris",
+   "title": "THE SURGEON-SCIENTIST CUTTING THROUGH UNNECESSARY INTERVENTION",
+   "subtitle": "Cutting Through Unnecessary Intervention",
+   "date": "February 23, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1xvKF4nkDJM6l8StN4hOj6rLfnqpkCm_j"
+ },
+ {
+   "id": 57,
+   "name": "Peter Blamey",
+   "pagename": "peter-blamey",
+   "filename": "peter_blamey",
+   "title": "THE HEARING HEALTH CHAMPION",
+   "subtitle": "The Hearing Health Champion",
+   "date": "March 1, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1ztMLJUkX4RGuoEuJHqxhVEuAYk9Y3cMe"
+ },
+ {
+   "id": 58,
+   "name": "June Brundell",
+   "pagename": "june-brundell",
+   "filename": "june_brundell",
+   "title": "A CLIMATE DOCTOR",
+   "subtitle": "A Climate Doctor",
+   "date": "March 8, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1IzXUO0oJwSsZW6L3cIM08JxHH2O7oas_"
+ },
+ {
+   "id": 59,
+   "name": "Skye Kinder",
+   "pagename": "skye-kinder",
+   "filename": "skye_kinder",
+   "title": "DRIVING RURAL HEALTH",
+   "subtitle": "Driving Rural Health",
+   "date": "March 15, 2020",
+   "audio": ""
+ },
+ {
+   "id": 60,
+   "name": "Bradley Frew",
+   "pagename": "bradley-frew",
+   "filename": "bradley_frew",
+   "title": "MILITARY MEDICINE INTO GENERAL PRACTICE",
+   "subtitle": "Military medicine into general practice",
+   "date": "April 6, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1erX0_Y75BsTvk1w6GVJQVfVy1DHwCl_D"
+ },
+ {
+   "id": 61,
+   "name": "Melanie Tan",
+   "pagename": "melanie-tan",
+   "filename": "melanie_tan",
+   "title": "HEART OF A DOCTOR, BRAIN OF A LAWYER & SOUL OF AN ARTIST",
+   "subtitle": "The doctor, lawyer and artist",
+   "date": "April 19, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1CUdEx8dzqaqyQTCOF2Y7ClrXc7FVwo23"
+ },
+ {
+   "id": 62,
+   "name": "Brian Spain",
+   "pagename": "brian-spain",
+   "filename": "brian_spain",
+   "title": "MISSION LEADER IN DISASTER RESPONSE",
+   "subtitle": "MISSION LEADER IN DISASTER RESPONSE",
+   "date": "April 26, 2020",
+   "audio": ""
+ },
+ {
+   "id": 63,
+   "name": "Evelyn Chan",
+   "pagename": "evelyn-chan",
+   "filename": "evelyn_chan",
+   "title": "IMPROVING HEALTHCARE EXPERIENCES THROUGH VIRTUAL REALITY",
+   "subtitle": "Improving healthcare experiences through virtual reality",
+   "date": "May 17, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1SQEpwxnlPPfSksZbEYFbl4fRnx6pbaiD"
+ },
+ {
+   "id": 64,
+   "name": "Katie Allen",
+   "pagename": "katie-allen",
+   "filename": "katie_allen",
+   "title": "FROM PAEDIATRICS TO POLITICS",
+   "subtitle": "From Paediatrics to Politics",
+   "date": "May 31, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1JgMrzJFKdE8QJlYvr6oVrD3168FoIEDc"
+ },
+ {
+   "id": 65,
+   "name": "Roy Robins-Browne",
+   "pagename": "roy-robins",
+   "filename": "roy_robins",
+   "title": "A WORLD EXPERT ON E. COLI AND A LOCAL FAVOURITE AT THE UNIVERSITY OF MELBOURNE",
+   "subtitle": "A world expert on E. coli",
+   "date": "June 21, 2020",
+   "audio": ""
+ },
+ {
+   "id": 66,
+   "name": "Marian Dover",
+   "pagename": "marian-dover",
+   "filename": "marian_dover",
+   "title": "THE FUTURE OF RURAL GENERALISM",
+   "subtitle": "The Future of Rural Generalism",
+   "date": "July 1, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1d-MI_eAJDLxR2cy_-oAL21jV-_QIi6yt"
+ },
+ {
+   "id": 67,
+   "name": "Jan Coles",
+   "pagename": "jan-coles",
+   "filename": "jan_coles",
+   "title": "A LEADING FAMILY VIOLENCE EDUCATOR",
+   "subtitle": "A Leading Family Violence Educator",
+   "date": "July 19, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1wI9WRV2xtBZoamGfzUCM-8GRAVpo5W1X"
+ },
+ {
+   "id": 68,
+   "name": "Covidsations From Thailand",
+   "pagename": "thailand-covidsation",
+   "filename": "thailand_covidsation",
+   "title": "COVIDSATIONS FROM THAILAND",
+   "subtitle": "Covidsations from Thailand",
+   "date": "July 26, 2020",
+   "audio": ""
+ },
+ {
+   "id": 69,
+   "name": "Melissa Kang",
+   "pagename": "melissa-kang",
+   "filename": "melissa_kang",
+   "title": "DOLLY DOCTOR",
+   "subtitle": "Dolly Doctor",
+   "date": "August 2, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1wI9WRV2xtBZoamGfzUCM-8GRAVpo5W1X"
+ },
+ {
+   "id": 70,
+   "name": "Bronwyn King",
+   "pagename": "bronwyn-king",
+   "filename": "bronwyn_king",
+   "title": "FROM DISAPPOINTMENTS TO 2019 MELBURNIAN OF THE YEAR",
+   "subtitle": "FROM DISAPPOINTMENTS TO 2019 MELBURNIAN OF THE YEAR",
+   "date": "August 15, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1WXvtLXEJdygbkAiLSVEUI7Alkk-79K7Y"
+ },
+ {
+   "id": 71,
+   "name": "Allison Hempenstall",
+   "pagename": "allison-hempenstall",
+   "filename": "allison_hempenstall",
+   "title": "A COMMITTED RURAL GENERALIST",
+   "subtitle": "A Committed Rural Generalist",
+   "date": "August 22, 2020",
+   "audio": ""
+ },
+ {
+   "id": 72,
+   "name": "David Lam",
+   "pagename": "david-lam",
+   "filename": "david_lam",
+   "title": "GP BY DAY, DJ BY NIGHT",
+   "subtitle": "GP by day, DJ by night",
+   "date": "September 6, 2020",
+   "audio": ""
+ },
+ {
+   "id": 73,
+   "name": "Robbie Gillies",
+   "pagename": "robbie-gillies",
+   "filename": "robbie_gillies",
+   "title": "CO-FOUNDING MULTIPLE CHARITIES",
+   "subtitle": "Co-founding multiple charities",
+   "date": "October 20, 2020",
+   "audio": ""
+ },
+ {
+   "id": 74,
+   "name": "Khoa Cao",
+   "pagename": "khoa-cao",
+   "filename": "khoa_cao",
+   "title": "MEDICAL AI INNOVATOR",
+   "subtitle": "MEDICAL AI INNOVATOR",
+   "date": "December 16, 2020",
+   "audio": "http://docs.google.com/uc?export=open&id=1djGH-F79KbohlTko4rA7SxUGx7yQRzVm"
+ }
+]

@@ -15,6 +15,7 @@ export function HeaderContainer() {
                     <Header.HomeLink>ETERNAL POSSIBILITIES</Header.HomeLink>
                 </Header.LogoBox>
                 <Header.LinkContainer>
+                    <Header.Link href="/blog">Archive</Header.Link>
                     <Header.Link href="/podcast">Podcast</Header.Link>
                     <Header.Link href="/team">Team</Header.Link>
                 </Header.LinkContainer>

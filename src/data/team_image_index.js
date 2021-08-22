@@ -10,26 +10,6 @@ import team_photo from "../images/team/team.png"
 import tom_xia from "../images/team/tom_xia.png"
 import victor_lin from "../images/team/victor_lin.jpg"
 
-/*
-
-const team_images = {
-    anthony_foster,
-    david_townsend,
-    erica_musgrove,
-    hutch_ozdil,
-    jeff_tang,
-    michael_wu, 
-    peter_cui,
-    sumudu_perera,
-    team_photo,
-    tom_xia,
-    victor_lin
-}
-
-export default team_images_array
-
-*/
-
 export {
     anthony_foster,
     david_townsend,
