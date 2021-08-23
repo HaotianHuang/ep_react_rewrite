@@ -2,10 +2,3 @@ www.eternalpossibilities.com.au re-written in React, using create-react-app (htt
 <br/>
 <br/>
 <br/>
-**Dependencies** (in addition to default installed by create-react-app)
-- react-router-dom
-- compress-images
-- @fortawesome/react-fontawesome
-- emailjs-com
-- moment
-- styled-components
