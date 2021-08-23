@@ -15,6 +15,7 @@ export function HeaderContainer() {
                     <Header.HomeLink>ETERNAL POSSIBILITIES</Header.HomeLink>
                 </Header.LogoBox>
                 <Header.LinkContainer>
+                    <Header.Link href="/blog">Archive</Header.Link>
                     <Header.Link href="/podcast">Podcast</Header.Link>
                     <Header.Link href="/team">Team</Header.Link>
                 </Header.LinkContainer>
@@ -27,7 +28,10 @@ export function HeaderContainer() {
                 </Header.StyledBurgerContainer>
             </Header.InnerContainer>
 
-            <Header.DropdownMenuContainer open = {open}>
+            <Header.DropdownMenuContainer open={open}>
+                <Header.DropdownMenuText open={open}>
+                    <Header.DropdownLink href="/blog">Archive</Header.DropdownLink>
+                </Header.DropdownMenuText>
                 <Header.DropdownMenuText open={open}>
                     <Header.DropdownLink href="/podcast">Podcast</Header.DropdownLink>
                 </Header.DropdownMenuText>

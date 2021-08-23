@@ -66,7 +66,7 @@ export const HomeLink = styled.h1`
         color: #8b8b8b;
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 750px) {
         font-size: 1.05em;
     }
 
@@ -93,7 +93,7 @@ export const LinkContainer = styled.nav`
     color: #e9e9e9;
     display: flex;
 
-    @media (max-width: 600px) {
+    @media (max-width: 750px) {
         display: none;
     }
 `;
@@ -130,7 +130,7 @@ export const StyledBurgerContainer = styled.div`
     background-color: transparent;
     display: none;
 
-    @media (max-width: 600px) {
+    @media (max-width: 750px) {
         display: inline-block;
     }
 
@@ -182,7 +182,7 @@ export const StyledBurger = styled.button`
       }
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 750px) {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
@@ -197,7 +197,7 @@ export const DropdownMenuContainer = styled.div`
     transition: max-height 0.3s ease-in-out;
     max-height: ${({ open }) => open ? '200px' : '0px'};
     
-    @media (min-width: 600px) {
+    @media (min-width: 750px) {
         display: none;
     }
 `;

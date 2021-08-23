@@ -1,10 +1,5 @@
 import React from 'react';
-
-import { HeaderContainer } from '../containers/header';
-import { FooterContainer } from '../containers/footer';
-import { BottomNoteContainer } from '../containers/bottomnote';
-import { EmptyHeadContainer } from '../containers/emptyHead';
-import { PodcastBodyContainer } from '../containers/podcastBody';
+import { HeaderContainer, FooterContainer, BottomNoteContainer, EmptyHeadContainer, PodcastBodyContainer} from '../containers';
 
 export default function Podcast() {
     return (
@@ -15,6 +10,5 @@ export default function Podcast() {
                 <BottomNoteContainer />
                 <FooterContainer />
             </div>
-
     )
 }

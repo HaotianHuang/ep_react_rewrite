@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch } from 'react-router-dom';
 import { Route } from 'react-router-dom';
-import { Home, Team, Podcast, Covidsations } from './pages/index';
+import { Home, Team, Podcast, Covidsations, Blog, BlogPage } from './pages/index';
 
 function App() {
   return (
@@ -14,10 +14,10 @@ function App() {
           < Podcast />
         </Route>
         <Route exact path ="/blog">
-          <p>Blog page</p>
+          <Blog />
         </Route>
         <Route path ="/blog/:blogId">
-          <p>BlogId page</p>
+          <BlogPage />
         </Route>
         <Route exact path ="/covidsations">
           < Covidsations />
@@ -31,9 +31,3 @@ function App() {
 }
 
 export default App;
-
-/*
-
-4
-
-*/

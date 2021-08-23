@@ -11,7 +11,7 @@ import ranjana_srivastava from "../images/feed/ranjana_srivastava.jpg"
 import mark_cook from "../images/feed/mark_cook.jpg"
 import nick_carr from "../images/feed/nick_carr.jpg"
 import peter_choong from "../images/feed/peter_choong.jpg"
-import hon_wen_chong from "../images/feed/hon_wen_chong.jpg"
+import hon_weng_chong from "../images/feed/hon_weng_chong.jpg"
 import joe_rotella from "../images/feed/joe_rotella.jpg"
 import olivia_lesslar from "../images/feed/olivia_lesslar.jpg"
 import rebecca_stewart from "../images/feed/rebecca_stewart.jpg"
@@ -88,7 +88,7 @@ const feed_images_array = [
     mark_cook,
     nick_carr,
     peter_choong,
-    hon_wen_chong,
+    hon_weng_chong,
     joe_rotella,
     olivia_lesslar,
     rebecca_stewart,

@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-    padding-top: 100px;
+    padding-top: 1px;
     background-image: url("https://uploads-ssl.webflow.com/5b3db92fdf53bd5cfe96e75a/5b45aa64371a1e5e93f36772_angel2.svg"), linear-gradient(135deg, rgba(0, 109, 240, 0.97) 40%, rgba(0, 233, 94, 0.89));
     background-position: 50% -143px, 0px 0px;
     background-size: cover, auto;
@@ -9,13 +9,13 @@ export const Container = styled.div`
 `;
 
 export const Pane = styled.div`
-    padding: 100px 20px;
-    margin-top: 200px;
+    padding: 50px 20px 50px 20px;
+    margin-top: 150px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 50px;
     padding-right: 50px;
-    max-width: 980px;
+    max-width: 1040px;
     font-family: Lato, sans-serif;
     color: #fff;
     text-align: center;

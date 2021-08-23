@@ -1,0 +1,28 @@
+import React from 'react';
+import { Blog } from '../../components';
+
+export default function tilman_ruff() {
+    return (
+        <Blog.TextBlock>
+            <Blog.Author>HIGH SCHOOL: CAMPAIGNING TO SAVE A KID IMPRISONED IN GREECE</Blog.Author>
+            <Blog.Text>This young man, Demetrio Stavrikakis, who was 18 had been imprisoned at the time of the military regime in Greece for writing a political slogan on a wall near his home. We tried lots of things on his behalf: we wrote to Greek government officials, we wrote to Australian officials to raise this issue with their Greek counterparts, and we were just trying to get publicity for his case amongst the Greek community in Melbourne, which was then the largest diaspora Great community outside Athens.</Blog.Text>
+            <Blog.Text>Neos Cosmos - the national Greek newspaper - had its editorial offices in Lonsdale St. So we went there after school and did whatever we could think of: we urged the editor to report on the injustice of Demetrio Stavrikakis halfway around the world, we also raised money and sent it to his family. In the end he was released and one will never know exactly what our contribution was, but we were certainly pleased as whatever we had done hadn’t hurt. His family - poor farmers in Crete - were enormously grateful for the support for them and their son. This was a really empowering experience as an adolescent (I was 15) and it implanted in me the idea that a universal shared human value, in this case human rights, could be the basis for making an effective intervention on the other side of the world to benefit the lives of people you’d never met.</Blog.Text>
+            <br/>
+            <br/>
+            <Blog.Subtitle>WORKING FOR A WORLD FREE OF NUCLEAR WEAPONS IS THE MOST IMPORTANT MEDICAL WORK I DO</Blog.Subtitle>
+            <Blog.Text>While I’ve enjoyed travel medicine and immunisations enormously, working for the abolition of nuclear weapons has been my main professional and personal calling. It’s become 80%+ of what I spend my time on these days.</Blog.Text>
+            <Blog.Text>Everything that we strive for in every sphere of human activity could become tragically irrelevant, if nuclear weapons are used. Everything that human civilisation and people have strived for, have built, and have passed down: all that extraordinary knowledge, architecture, culture, music, literature. So it's not a matter of choice; it's a matter of absolute necessity, that they be eliminated before they can be used again. If they are retained then they will definitely at some point be used again. So we're really in a race against time and this is something we all have a crucial stake in.</Blog.Text>
+            <Blog.Text>Humans have never before had the capacity to cause such severe disruption that they could actually jeopardise the continuity of life, and we now can do that through environmental means, climate disruption, and nuclear weapons. These are unprecedented challenges which no previous generations in all our long evolution has ever had to grapple with, which is pretty daunting and is a very serious burden and responsibility. But the flip side of that is that this is an extraordinary opportunity, literally all of us alive now have the opportunity to save the world. What better thing could you possibly want to contribute to.</Blog.Text>
+            <br/>
+            <br/>
+            <Blog.Subtitle>THE 2017 NOBEL PEACE PRIZE</Blog.Subtitle>
+            <Blog.Text>As the first Nobel Peace Prize born in Australia, I want everyone in Australia to feel some sense of pride and ownership and be reminded of how much can be achieved by a few ordinary people with a vision, a plan and persistence. I hope that whatever causes people care about, that they will take encouragement from the remarkable story of how the three of us in Melbourne planned a campaign (the International Campaign to Abolish Nuclear Weapons) that took off globally. It was crucial in getting this historic treaty on the prohibition of nuclear weapons adopted last year (2017) by an overwhelming majority of nations at the United Nations.</Blog.Text>
+            <Blog.Text>One of the lovely things about it is that the prize was not awarded to any particular individual but to the whole campaign. So what we've been doing very deliberately with the medal that we have in Australia is sharing it as widely as possible: with the black fellows who are on contaminated country in South Australia from the British nuclear tests, with people who have suffered ill health as a long-term legacy, and people who have worked for the ICANN campaign in a whole range of capacities around the country. The excitement that people have when they share this thing is a wonderful way to celebrate what people have achieved and can achieve.</Blog.Text>
+            <br/>
+            <br/>
+            <Blog.Text><b>Associate Professor Tilman Ruff AM is a public health and infectious diseases physician who has devoted his life to eliminating nuclear weapon from the face of the Earth. This work has earned that organisation he co-founded - The International Campaign to Abolish Nuclear Weapons (ICANN) - the Nobel Peace Prize in 2017. Dr. Ruff has additionally led a global career in travel medicine including being an international medical adviser to the Australian Red Cross for more than 20 years, and serving on the WHO Western Pacific Region Hepatitis B Immunisation Expert Resource Panel, among numerous other posts.</b></Blog.Text>
+            <br/>
+            <br/>
+        </Blog.TextBlock>
+    )
+}

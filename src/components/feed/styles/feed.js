@@ -7,6 +7,7 @@ export const Container = styled.div`
 export const InnerContainer = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    padding: 0px 7px 40px 7px;
 
     @media (max-width: 999px) and (min-width: 601px) {
         grid-template-columns: 1fr 1fr;
@@ -46,7 +47,7 @@ export const PostImage = styled.div`
 export const PostImageOverlay = styled.div`
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.2);
 `;
 
 export const PostContentWrapper = styled.div`
@@ -88,7 +89,7 @@ export const PostContentSubtitle = styled.div`
 export const PostContentDate = styled.h5`
     margin-top: 20px;
     font-family: Roboto, sans-serif;
-    color: #000;
+    color: #f1f1f1;
     font-size: 15px;
     font-weight: 500;
     text-transform: uppercase;

@@ -11,6 +11,8 @@ export const InnerContainer = styled.div`
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
     max-width: 940px;
 `;
 
@@ -56,7 +58,7 @@ export const PodcastTitle = styled.h4`
     font-family: Roboto, sans-serif;
     font-size: 20px;
     line-height: 27px;
-    font-weight: 500;
+    font-weight: 700;
     text-align: justify;
     color: #333;
 `;
@@ -70,4 +72,5 @@ export const PodcastText = styled.p`
     font-size: 16px;
     text-align: justify;
     color: #333;
+    white-space: pre-wrap;
 `;
