@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Container, ImageContainer, Image, TeamContainer, TeamInnerContainer, TeamInnerContainerTitle, TeamProfileWrapper, 
-    TeamProfilePosition, TeamProfileName, TeamProfileImage, TeamProfileText} from './styles/teamBody';
+    TeamProfileWrapperCenter, TeamProfilePosition, TeamProfileName, TeamProfileImage, TeamProfileText} from './styles/teamBody';
 
 export default function TeamBody({ children, ...restProps }) {
     return (<Container {...restProps}>{children}</Container>)
@@ -29,6 +29,10 @@ TeamBody.TeamInnerContainerTitle = function TeamBodyTeamInnerContainerTitle ({ .
 
 TeamBody.TeamProfileWrapper = function TeamBodyTeamProfileWrapper ({ ...restProps}) {
     return <TeamProfileWrapper {...restProps } />;
+}
+
+TeamBody.TeamProfileWrapperCenter = function TeamBodyTeamProfileWrapperCenter ({ ...restProps}) {
+    return <TeamProfileWrapperCenter {...restProps } />;
 }
 
 TeamBody.TeamProfilePosition = function TeamBodyTeamProfilePosition ({ ...restProps}) {

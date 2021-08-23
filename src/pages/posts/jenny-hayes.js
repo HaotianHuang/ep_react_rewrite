@@ -23,6 +23,8 @@ export default function jenny_hayes() {
             <br/>
             <Blog.Subtitle>ADVICE</Blog.Subtitle>
             <Blog.Text>Believe in yourself. I think that the people that actually are successful in life, are not necessarily the most talented or the most supported or even the healthiest. They are the people that believe in themselves and actually have a goal and are hellbent on achieving it.</Blog.Text>
+            <br/>
+            <br/>
         </Blog.TextBlock>
     )
 }

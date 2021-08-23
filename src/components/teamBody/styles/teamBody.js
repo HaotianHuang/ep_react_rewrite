@@ -83,6 +83,14 @@ export const TeamInnerContainer = styled.div`
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+
+    @media (max-width: 999px) and (min-width: 601px) {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    @media (max-width: 600px) {
+        grid-template-columns: 1fr;
+    }
 `;
 
 export const TeamInnerContainerTitle = styled.h1`
@@ -116,23 +124,49 @@ export const TeamProfileWrapper = styled.div`
     text-align: center;
 `;
 
+export const TeamProfileWrapperCenter = styled.div`
+    position: relative;
+    float: left;
+    width: 100%;
+    min-height: 1px;
+    display: block;
+    width: 96%;
+    margin-top: 1.3vw;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px 40px;
+    border: 1px solid #e4ecf6;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 7px 7px 10px 0 #f3f8ff;
+    text-align: center;
+
+    @media (min-width: 999px) {
+        grid-column: 2;
+    }
+
+    @media (max-width: 999px) and (min-width: 601px) {
+        grid-column: 1;
+    }
+
+    @media (max-width: 600px) {
+        grid-column: 1;
+    }
+`;
+
 
 export const TeamProfilePosition = styled.h4`
-    margin-bottom: 10px;
-    border-color: rgba(228, 236, 246, 0.57);
+    margin-bottom: 5px;
     background-color: transparent;
-    font-family: Merriweather, serif;
-    color: rgba(0, 77, 240, 0.92);
-    font-weight: 500;
+    font-family: Roboto,sans-serif;
+    color: grey;
+    font-weight: 300;
     text-transform: none;
     display: block;
-    width: 120px;
     margin-top: 0px;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid #000;
-    border-radius: 5px;
-    font-size: 10px;
+    font-size: 0.8rem;
     letter-spacing: 1px;
 `;
 
@@ -141,7 +175,7 @@ export const TeamProfileName = styled.h4`
     color: #1f2532;
     font-size: 19px;
     margin-top: 0px;
-    font-weight: 600;
+    font-weight: 500;
     text-align: center;
     font-family: Roboto, sans-serif;
     line-height: 27px;
@@ -162,7 +196,7 @@ export const TeamProfileImage = styled.div`
 `;
 
 export const TeamProfileText = styled.p`
-    font-family: Merriweather, serif;
+    font-family: Roboto,sans-serif;
     color: #9ba4af;
     font-size: 15px;
     line-height: 24px;

@@ -28,7 +28,10 @@ export function HeaderContainer() {
                 </Header.StyledBurgerContainer>
             </Header.InnerContainer>
 
-            <Header.DropdownMenuContainer open = {open}>
+            <Header.DropdownMenuContainer open={open}>
+                <Header.DropdownMenuText open={open}>
+                    <Header.DropdownLink href="/blog">Archive</Header.DropdownLink>
+                </Header.DropdownMenuText>
                 <Header.DropdownMenuText open={open}>
                     <Header.DropdownLink href="/podcast">Podcast</Header.DropdownLink>
                 </Header.DropdownMenuText>

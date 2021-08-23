@@ -1,21 +1,24 @@
 import React from 'react';
 import { Blog } from '../components';
 import postData from '../data/postData.json';
-const reversePostData = postData.reverse()
+
+const postStyle = {
+    paddingLeft: "40px"
+};
 
 const ulStyle = {
-    paddingLeft: "0",
+    paddingLeft: "0px",
     listStylePosition: "inside"
 };
 
 export function BlogContainer() {
     return (
         <Blog>
-            <Blog.PostContainer>
+            <Blog.PostContainer style={postStyle}>
                 <Blog.TextBlock>
                     <Blog.Subtitle>Posts</Blog.Subtitle>
                     <ul style={ulStyle}>
-                        {reversePostData.map((post) => (
+                        {postData.slice(0).reverse().map((post) => (
                             <li key={post.id}><Blog.ReturnLink href={`/blog/${post.pagename}`}>{post.name}</Blog.ReturnLink></li>
                         ))}
                     </ul>

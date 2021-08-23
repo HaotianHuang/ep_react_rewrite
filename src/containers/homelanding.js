@@ -29,14 +29,7 @@ export function HomeLandingContainer() {
         },
         opacity: buttonIsDisabled ? "0.4" : "1.0"
     }
-
-    // "&:hover": {
-    //     backgroundColor: "#00e95e",
-    //     border: "0px none #fff",
-    //     boxShadow: "0 20px 20px 0 rgba(0,0,0,0.15)",
-    //     transform: "translate(0px,-5px)"
-    // },
-
+    
     const handleSubmit = (e) => {
         e.preventDefault();
         

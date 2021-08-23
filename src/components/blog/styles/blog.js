@@ -2,9 +2,11 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     color: #333;
-    padding-top: 100px;
-    padding-bottom: 70px;
+    padding-top: 50px;
+    padding-bottom: 10px;
     border-style: none;
+    padding-left: 30px;
+    padding-right: 30px;
 `;
 
 export const PostContainer = styled.div`
@@ -84,17 +86,17 @@ export const Author = styled.h4`
 
 export const Subtitle = styled.h3`
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-family: Roboto, sans-serif;
     font-size: 26px;
     line-height: 33px;
-    font-weight: 500;
+    font-weight: 700;
     text-align: justify;
 `;
 
 export const Text = styled.p`
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     line-height: 22px;
     font-weight: 400;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
@@ -123,7 +125,7 @@ export const RecordingTitle = styled.div`
 `;
 
 export const AudioContainer = styled.div`
-    margin-top: 60px;
+    margin-top: -30px;
     margin-bottom: 0px;
     border-left: 1px none #000;
     text-align: center;
@@ -136,11 +138,10 @@ export const Audio = styled.audio`
 `;
 
 export const ReturnLink = styled.a`
-    margin-top: 60px;
-    padding-top: 0px;
     color: #2196f3;
     text-decoration: none;
     background-color: transparent;
+    line-height: 20px;
 
     &:hover {
         color: #2144f3;

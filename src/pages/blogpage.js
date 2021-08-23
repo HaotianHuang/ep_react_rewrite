@@ -9,14 +9,26 @@ import blogObject from './posts/index'
 
 const processPostData = postData.map ((post, index) => {
     let newPost = {...post}
-    const reverse_post_images = post_images.reverse()
-    newPost.image = reverse_post_images[index]
+    newPost.image = post_images[index]
     return newPost
 })
 
 export default function BlogPage() {
     const {blogId} = useParams()
     const thisPost = processPostData.find(post => post.pagename === blogId)
+    const Body = blogObject[thisPost.filename]
+
+    // Conditional rendering of recording component
+    let audio 
+    thisPost.audio === "" ? 
+    audio = null :
+    audio = <Blog.AudioContainer>
+                <ReactAudioPlayer
+                src={thisPost.audio}
+                autoPlay={false}
+                controls
+                />
+            </Blog.AudioContainer>
 
     return (
             <div>
@@ -32,18 +44,11 @@ export default function BlogPage() {
                             <Blog.PostDate>{thisPost.date}</Blog.PostDate>
                             <Blog.PostImage src={thisPost.image}/>
                         </Blog.HeaderContainer>
-
-                        <blogObject.jenny_hayes></blogObject.jenny_hayes>
-
-                        <Blog.AudioContainer>
-
-                            <ReactAudioPlayer
-                            src={thisPost.audio}
-                            autoPlay
-                            controls
-                            />
-
-                        </Blog.AudioContainer>
+                        <Body/>
+                        {audio}
+                        <br/>
+                        <Blog.ReturnLink style={{lineHeight: "40px"}}href="/">← Home </Blog.ReturnLink>
+                        <br/>
                         <Blog.ReturnLink href="/blog">← All Posts </Blog.ReturnLink>
 
                     </Blog.PostContainer>

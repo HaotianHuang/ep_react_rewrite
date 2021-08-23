@@ -10,6 +10,7 @@ export const InnerContainer = styled.div`
     max-width: 920px;
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 `;
 
 // Post Header
@@ -17,10 +18,14 @@ export const InnerContainer = styled.div`
 export const PostTitle = styled.div`
     padding-top: 20px;
     padding-bottom: 30px;
-    font-size: 38px;
+    font-size: 38px;    
     line-height: 24px;
     font-weight: 700;
     text-align: center;
+
+    @media (max-width: 700px) {
+        font-size: 30px;
+    }
 `;
 
 export const PostSubtitle = styled.div`
@@ -35,6 +40,10 @@ export const PostSubtitle = styled.div`
     text-transform: uppercase;
     text-align: center;
     font-family: 'Exo', sans-serif;
+
+    @media (max-width: 700px) {
+        font-size: 15px;
+    }
 `;
 
 export const PostDate = styled.div`
@@ -45,6 +54,10 @@ export const PostDate = styled.div`
     text-transform: uppercase;
     text-align: center;
     line-height: 22px;
+
+    @media (max-width: 700px) {
+        font-size: 12px;
+    }
 `;
 
 export const PostAuthor = styled.h4`
@@ -54,6 +67,10 @@ export const PostAuthor = styled.h4`
     font-weight: 600;
     text-align: left;
     margin-bottom: 20px;
+
+    @media (max-width: 700px) {
+        font-size: 16px;
+    }
 `;
 
 // DIV with photo + text horizontally aligned
@@ -62,7 +79,7 @@ export const PhotoTextContainer = styled.div`
     margin-top: 50px;
     margin-bottom: 50px;
 
-    @media (min-width: 600px) {
+    @media (min-width: 700px) {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
@@ -83,15 +100,31 @@ export const PhotoTextContainerTextContainer = styled.div`
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
+
+    @media (max-width: 700px) {
+        margin-top: 20px;
+    }
 `;
 
 export const PhotoTextContainerPhotoContainer = styled.div`
     padding-left: 10px;
     padding-right: 10px;
-    text-align: center;
-    flex: 0 0 35%;
     margin-left: auto;
     margin-right: auto;
+
+    @media (max-width: 700px) {
+        text-align: center;
+        flex: 0 0 40%;
+    }
+
+    @media (min-width: 700px) {
+        text-align: right;
+        flex: 0 0 40%;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 `;
 
 export const PhotoTextContainerPhoto = styled.img`
@@ -103,6 +136,8 @@ export const PhotoTextContainerPhoto = styled.img`
     object-fit: cover;
     height: 480px;
     width: 300px;
+
+
 `;
 
 // BOTTOM QUESTIONS
@@ -119,6 +154,10 @@ export const Subtitle = styled.h4`
     line-height: 27px;
     font-weight: 600;
     margin-bottom: 20px
+
+    @media (max-width: 700px) {
+        font-size: 1.1rem;
+    }
 `;
 
 export const Text = styled.p`
@@ -130,4 +169,8 @@ export const Text = styled.p`
     font-weight: 400;
     letter-spacing: 0.1px;
     text-align: justify;
+
+    @media (max-width: 700px) {
+        font-size: 0.9rem;
+    }
 `;

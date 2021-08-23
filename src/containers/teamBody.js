@@ -16,12 +16,12 @@ export function TeamBodyContainer() {
 
                     <TeamBody.TeamInnerContainerTitle>About the Founder</TeamBody.TeamInnerContainerTitle>
 
-                    <TeamBody.TeamProfileWrapper style={{gridColumn: "2"}}>
+                    <TeamBody.TeamProfileWrapperCenter>
                         <TeamBody.TeamProfilePosition>Founder</TeamBody.TeamProfilePosition>
                         <TeamBody.TeamProfileName>Jefferson Tang</TeamBody.TeamProfileName>
                         <TeamBody.TeamProfileImage style={{backgroundImage: `url(${jeff_tang})`}}></TeamBody.TeamProfileImage>
                         <TeamBody.TeamProfileText>Hailing from Melbourne, Jefferson is a junior doctor who is insatiably curious about the untold stories of well-lived lives.</TeamBody.TeamProfileText>
-                    </TeamBody.TeamProfileWrapper>
+                    </TeamBody.TeamProfileWrapperCenter>
                 </TeamBody.TeamInnerContainer>
 
                 <TeamBody.TeamInnerContainer>
@@ -88,13 +88,6 @@ export function TeamBodyContainer() {
                         <TeamBody.TeamProfileName>Chris Erian</TeamBody.TeamProfileName>
                         <TeamBody.TeamProfileImage></TeamBody.TeamProfileImage>
                         <TeamBody.TeamProfileText>Doctor of Medicine<br />University of Queensland</TeamBody.TeamProfileText>
-                    </TeamBody.TeamProfileWrapper>
-
-                    <TeamBody.TeamProfileWrapper>
-                        <TeamBody.TeamProfilePosition>Journalist</TeamBody.TeamProfilePosition>
-                        <TeamBody.TeamProfileName>Alistair Weng</TeamBody.TeamProfileName>
-                        <TeamBody.TeamProfileImage></TeamBody.TeamProfileImage>
-                        <TeamBody.TeamProfileText>Doctor of Medicine<br />University of Melbourne</TeamBody.TeamProfileText>
                     </TeamBody.TeamProfileWrapper>
 
                     <TeamBody.TeamProfileWrapper>
