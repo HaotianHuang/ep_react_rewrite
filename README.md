@@ -6,7 +6,7 @@ Re-written to be mobile-responsive and load faster (compressed images, and creat
 Development mode code in main branch
 <br/>
 <br/>
-Deployed to kyzooghost.github.io/ep_react_rewrite/
+Deployed to https://kyzooghost.github.io/ep_react_rewrite/#/
 <br/>
 <br/>
 Unfortunately deployed page currently has UI bug - clicking internal links will not scroll to the top of the new page
