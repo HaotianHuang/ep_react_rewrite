@@ -1,5 +1,6 @@
 www.eternalpossibilities.com.au re-written in React JS, using create-react-app. Initially designed and published in 2018 with Webflow.
 <br/>
+<br/>
 Re-written to be mobile-responsive and load faster
 - Compressed images
 - Created JSON files and used React JS methods to replace Webflow Content Management System
@@ -8,7 +9,6 @@ Re-written to be mobile-responsive and load faster
 <br/>
 <br/>
 Development mode code in main branch
-<br/>
 <br/>
 Deployed to https://kyzooghost.github.io/ep_react_rewrite/#/
 <br/>
