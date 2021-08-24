@@ -47,9 +47,9 @@ export default function BlogPage() {
                         <Body/>
                         {audio}
                         <br/>
-                        <Blog.ReturnLink style={{lineHeight: "40px"}}href="/">← Home </Blog.ReturnLink>
+                        <Blog.ReturnLink style={{lineHeight: "40px"}}href="/#/">← Home </Blog.ReturnLink>
                         <br/>
-                        <Blog.ReturnLink href="/blog">← All Posts </Blog.ReturnLink>
+                        <Blog.ReturnLink href="/#/blog">← All Posts </Blog.ReturnLink>
 
                     </Blog.PostContainer>
                 </Blog>
