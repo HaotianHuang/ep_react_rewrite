@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import {Link} from 'react-router-dom';
 
 export const Container = styled.div`
     margin-top: 50px;
@@ -24,7 +25,7 @@ export const PostWrapper = styled.div`
     padding-left: 5px;
 `;
 
-export const PostLinkWrapper = styled.a`
+export const PostLinkWrapper = styled(Link)`
     position: relative;
     display: block;
     overflow: hidden;

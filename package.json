@@ -2,6 +2,15 @@
   "name": "ep_react_rewrite",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kyzooghost.github.io/ep_react_rewrite/",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
@@ -12,6 +21,7 @@
     "@testing-library/user-event": "^12.8.3",
     "emailjs-com": "^3.2.0",
     "fuse": "^0.4.0",
+    "gh-pages": "^3.2.3",
     "gifsicle": "^5.2.0",
     "guetzli": "^3.0.1",
     "moment": "^2.29.1",
@@ -26,12 +36,6 @@
     "social-media-icons-react": "^1.1.7",
     "styled-components": "^5.3.0",
     "web-vitals": "^1.1.2"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

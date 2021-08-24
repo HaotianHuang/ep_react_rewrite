@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, InnerContainer, LinkContainer, Link, LogoBox, Logo, HomeLink, StyledBurger, StyledBurgerContainer, DropdownMenuContainer, DropdownMenuText, DropdownLink } from './styles/header';
+import { Container, InnerContainer, LinkContainer, StyledLink, LogoBox, Logo, HomeLink, StyledBurger, StyledBurgerContainer, DropdownMenuContainer, DropdownMenuText, DropdownLink } from './styles/header';
 
 export default function Header({ children, ...restProps }) {
     return (<Container {...restProps}>{children}</Container>)
@@ -13,8 +13,8 @@ Header.LinkContainer = function HeaderLinkContainer ({ ...restProps}) {
     return <LinkContainer {...restProps } />;
 }
 
-Header.Link = function HeaderLink ({ ...restProps}) {
-    return <Link {...restProps } />;
+Header.StyledLink = function HeaderStyledLink ({ ...restProps}) {
+    return <StyledLink {...restProps } />;
 }
 
 Header.LogoBox = function HeaderLogoBox ({ ...restProps}) {

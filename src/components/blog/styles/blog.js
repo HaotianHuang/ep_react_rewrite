@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import {Link} from 'react-router-dom';
 
 export const Container = styled.div`
     color: #333;
@@ -137,7 +138,7 @@ export const Audio = styled.audio`
     text-align: center;
 `;
 
-export const ReturnLink = styled.a`
+export const ReturnLink = styled(Link)`
     color: #2196f3;
     text-decoration: none;
     background-color: transparent;

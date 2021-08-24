@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import {Link} from 'react-router-dom';
 
 export const Container = styled.div`
     position: fixed;
@@ -29,7 +30,7 @@ export const InnerContainer = styled.div`
 
 // LEFT
 
-export const LogoBox = styled.a`
+export const LogoBox = styled(Link)`
     padding-left: 20px;
     display: flex;
     text-decoration: none;
@@ -98,7 +99,7 @@ export const LinkContainer = styled.nav`
     }
 `;
 
-export const Link = styled.a`
+export const StyledLink = styled(Link)`
     text-decoration: none;
     padding-left: 20px;
     padding-right: 20px;
@@ -212,7 +213,7 @@ export const DropdownMenuText = styled.div`
     display: flex;
 `;
 
-export const DropdownLink = styled.a`
+export const DropdownLink = styled(Link)`
     text-decoration: none;
     padding-left: 20px;
     padding-right: 20px;
