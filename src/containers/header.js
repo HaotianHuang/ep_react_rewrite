@@ -8,14 +8,14 @@ export function HeaderContainer() {
     return (
         <Header>
             <Header.InnerContainer>
-                <Header.LogoBox href="/#/">
+                <Header.LogoBox to="/">
                     <Header.Logo src={logo} alt="" width="40"/>
                     <Header.HomeLink>ETERNAL POSSIBILITIES</Header.HomeLink>
                 </Header.LogoBox>
                 <Header.LinkContainer>
-                    <Header.Link href="/#/blog">Archive</Header.Link>
-                    <Header.Link href="/#/podcast">Podcast</Header.Link>
-                    <Header.Link href="/#/team">Team</Header.Link>
+                    <Header.StyledLink to="/blog">Archive</Header.StyledLink>
+                    <Header.StyledLink to="/podcast">Podcast</Header.StyledLink>
+                    <Header.StyledLink to="/team">Team</Header.StyledLink>
                 </Header.LinkContainer>
                 <Header.StyledBurgerContainer onClick={() => setOpen(!open)}>
                     <Header.StyledBurger open={open}>
@@ -28,13 +28,13 @@ export function HeaderContainer() {
 
             <Header.DropdownMenuContainer open={open}>
                 <Header.DropdownMenuText open={open}>
-                    <Header.DropdownLink href="/#/blog">Archive</Header.DropdownLink>
+                    <Header.DropdownLink to="/blog">Archive</Header.DropdownLink>
                 </Header.DropdownMenuText>
                 <Header.DropdownMenuText open={open}>
-                    <Header.DropdownLink href="/#/podcast">Podcast</Header.DropdownLink>
+                    <Header.DropdownLink to="/podcast">Podcast</Header.DropdownLink>
                 </Header.DropdownMenuText>
                 <Header.DropdownMenuText open={open}>
-                    <Header.DropdownLink href="/#/team">Team</Header.DropdownLink>
+                    <Header.DropdownLink to="/team">Team</Header.DropdownLink>
                 </Header.DropdownMenuText>
             </Header.DropdownMenuContainer>
         </Header>
