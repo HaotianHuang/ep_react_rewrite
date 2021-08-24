@@ -17,7 +17,7 @@ export function FeedContainer() {
             <Feed.InnerContainer>
                 {finalPostData.map((post) => (
                         <Feed.PostWrapper key={post.id}>
-                            <Feed.PostLinkWrapper href={`/blog/${post.pagename}`}>
+                            <Feed.PostLinkWrapper href={`/#/blog/${post.pagename}`}>
                                 <Feed.PostImage style={{backgroundImage: `url(${post.image})`}}>
                                     <Feed.PostImageOverlay>
                                         <Feed.PostContentWrapper>

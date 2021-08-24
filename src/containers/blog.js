@@ -19,7 +19,7 @@ export function BlogContainer() {
                     <Blog.Subtitle>Posts</Blog.Subtitle>
                     <ul style={ulStyle}>
                         {postData.slice(0).reverse().map((post) => (
-                            <li key={post.id}><Blog.ReturnLink href={`/blog/${post.pagename}`}>{post.name}</Blog.ReturnLink></li>
+                            <li key={post.id}><Blog.ReturnLink href={`/#/blog/${post.pagename}`}>{post.name}</Blog.ReturnLink></li>
                         ))}
                     </ul>
                 </Blog.TextBlock>

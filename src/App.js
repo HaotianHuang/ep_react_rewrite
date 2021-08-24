@@ -1,11 +1,11 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch } from 'react-router-dom';
+import { HashRouter as Router, Switch } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 import { Home, Team, Podcast, Covidsations, Blog, BlogPage } from './pages/index';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <Switch>
         <Route exact path ="/team">
           < Team />
