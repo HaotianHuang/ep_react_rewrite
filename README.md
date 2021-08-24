@@ -13,5 +13,5 @@ Development mode code in main branch
 Deployed to https://kyzooghost.github.io/ep_react_rewrite/#/
 <br/>
 <br/>
-Unfortunately deployed page currently has UI bug - clicking internal links will not scroll to the top of the new page
+Unfortunately deployed page currently has a UI bug - clicking internal links will not scroll to the top of the new page
 Github pages does not natively support React BrowserRouter method, and had to implement HashBrowser instead. The bug is a consequence of this workaround.
