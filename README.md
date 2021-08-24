@@ -1,6 +1,4 @@
-www.eternalpossibilities.com.au re-written in React JS, using create-react-app
-<br/>
-Initially designed and published in 2018 with Webflow
+www.eternalpossibilities.com.au re-written in React JS, using create-react-app. Initially designed and published in 2018 with Webflow.
 <br/>
 Re-written to be mobile-responsive and load faster
 - Compressed images
