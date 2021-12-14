@@ -73,6 +73,7 @@ import allison_hempenstall from "./allison-hempenstall"
 import david_lam from "./david-lam"
 import robbie_gillies from "./robbie-gillies"
 import khoa_cao from "./khoa-cao"
+import jefferson_tang from "./jefferson-tang"
 
 let blogObject = {};
 
@@ -151,5 +152,6 @@ blogObject.allison_hempenstall = allison_hempenstall
 blogObject.david_lam = david_lam
 blogObject.robbie_gillies = robbie_gillies
 blogObject.khoa_cao = khoa_cao
+blogObject.jefferson_tang = jefferson_tang
 
 export default blogObject

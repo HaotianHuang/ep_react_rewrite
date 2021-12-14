@@ -73,6 +73,7 @@ import allison_hempenstall from "../images/feed/allison_hempenstall.jpg"
 import david_lam from "../images/feed/david_lam.jpg"
 import robbie_gillies from "../images/feed/robbie_gillies.jpg"
 import khoa_cao from "../images/feed/khoa_cao.jpg"
+import jefferson_tang from "../images/feed/jefferson_tang.jpg"
 
 const feed_images_array = [
     jenny_hayes,
@@ -150,6 +151,7 @@ const feed_images_array = [
     david_lam,
     robbie_gillies,
     khoa_cao,
+    jefferson_tang,
 ]
 
 export default feed_images_array
